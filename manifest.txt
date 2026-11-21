@@ -1,24 +1,27 @@
 # WolfOS Store manifest: name|version|size|sha256|summary|depends|kind|title|category|icon
 @store=WolfOS Store
-@generated=1795273421
-wolfclock|1.0|528611|97774e46dc2a1bb943f07da9779a765fa43c6b3e5314f5d47cc11afc0cbbae24|A desk clock with the date, following the desktop theme||app|wolfclock|Apps|icons/wolfclock.png
-browser|1.0.0|3375881|d578cd2c0f549cc4e7fb9661c59b37d1a800d0dbe096acbe5913a741e56194e0|Browse the web||system|WolfBrowser|System|icons/browser.png
-calc|1.0.0|547428|3c028eee143a4cfa4750eaa3349a95b9e37834389e53b6452d70b90e78c3e84c|Add, subtract, multiply and divide||system|Calculator|System|icons/calc.png
-clock|1.0.0|593031|ed3e8056f1921ee724bcc2a801077e35aa54d7ead07340b6aac29c5582209500|Alarms, world clocks, timers and a stopwatch||system|Clock|System|icons/clock.png
-desktopd|1.0.0|2361490|4e2374754bbdfeb3f59f464cad3584a517df801c39498443865080b03253f645|WolfOS system service||service|desktopd|System services|
-disks|1.0.0|750688|454495b5ca966f7e6c06b58d6e1d653bc4aaba07bccdd22508300b8d570f134b|Partitions, formatting and disk health||system|Disks|System|icons/disks.png
-files|1.0.0|722687|2ac8547e4f37b1dba1ef00ce775a4e85ca532b9a82f302f40c56074abed512d2|Browse, copy and organise files and disks||system|Files|System|icons/files.png
-hwmgr|1.0.0|815054|4f9ed39bba0c7a53735a5ad7d7ec25e5eaa8005599913d38ace4533fa7bb8e8c|Devices, drivers and their state||system|Hardware|System|icons/hwmgr.png
+@generated=1795290376
+wolfclock|1.0|528755|1a0a516fef257868b341a0e7d27b92a7b7e2ad8fc728ea94a2f5438597a43516|A desk clock with the date, following the desktop theme||app|wolfclock|Apps|icons/wolfclock.png
+archive|1.0.0|808345|b59a350ac18f854d96a6cd1675aba1494631dfadbb5e13fd55e4e1284f4f6a95|Open, extract and make zip, tar and gzip archives||system|Archives|System|icons/archive.png
+browser|1.0.0|3376025|a4aefba1b73e4759e78eee25de5a9609a19b32ca3b9dd8072fdd66f3792ecba5|Browse the web||system|WolfBrowser|System|icons/browser.png
+calc|1.0.0|547572|da57b0f039b5cdbc533cc9ba1371926848504585b52891ecbdb03397975f0c14|Add, subtract, multiply and divide||system|Calculator|System|icons/calc.png
+clock|1.0.0|593175|246630eae69d7d7c9f6e1f5d2f75e1649a8164dc9b5f2d0d657ad5a58e9d8174|Alarms, world clocks, timers and a stopwatch||system|Clock|System|icons/clock.png
+desktopd|1.0.0|2426738|330808fd9c0b7f61054bb6fe1adbd5491adee83c994155c3fcd0f13e5150b393|WolfOS system service||service|desktopd|System services|
+disks|1.0.0|750832|7896f0ba260909c5c19e18f19c7367254a841c1da441b186f916c9f450eddabe|Partitions, formatting and disk health||system|Disks|System|icons/disks.png
+docviewer|1.0.0|879972|50ceed556cf920eb1db134d3e90c1b72e874b547b75f2c28565e7653e0ecdf54|Read PDF documents||system|Document Viewer|System|icons/docviewer.png
+files|1.0.0|731871|6cb552afd73e8f26498c4944dfe6a38add56f8e421c52330e7f8f1c08d2dc2cc|Browse, copy and organise files and disks||system|Files|System|icons/files.png
+hwmgr|1.0.0|815198|a5d0bebaaa7f437100266c832006ff7239183089f0693ef410a8129507633ed7|Devices, drivers and their state||system|Hardware|System|icons/hwmgr.png
 lxbase|1.0.0|22140|519f1a1074c50895e2bc2cee4914a4940033fc06e4e16a2719d4c80416d7cc92|WolfOS system service||service|lxbase|System services|
-media|1.0.0|909485|52abd07d5c5a1bbb3e9e6661b84d28cff77c6a3f19e95a521d65d8af8877a13f|Music, playlists, videos and pictures||system|Media Player|System|icons/media.png
+media|1.0.0|909629|76fe1979a9aee3cc34786b0cda4de5eabd714eef05f5776895181df5bfb28f11|Music, playlists, videos and pictures||system|Media Player|System|icons/media.png
 netd|1.0.0|169449|e795b1af6e83236d1b960067d8fcb09d7fcdf6103d1ca8c0ed2433f8ce24ac6a|WolfOS system service||service|netd|System services|
-notes|1.0.0|827375|2ee4b3a4e3b7aad982daddb76f4a4847add70f66f7573a95680a6dfb233d8463|Write and edit text files in tabs||system|Notes|System|icons/notes.png
-pkgmgr|1.0.0|658648|18340edfb8d68dbdfd584ad09afc1795a2ec3a9020db2eac0dbde43d8a6f3716|Find, install, update and remove packages||system|Package Manager|System|icons/pkgmgr.png
-settings|1.0.0|700311|97411c041eabe98e1669eae88bd167ea269b92635a9fbc2ad59eaa51556a5c82|Appearance, display, network, users and more||system|Settings|System|icons/settings.png
-store|1.0.0|615033|6c5ac91a30f899f070b60385629043fc12c529230332cf73590ac9bc16c75346|Apps for WolfOS, and the system's own updates||system|Store|System|icons/store.png
-studio|1.0.0|889036|b9c4a64b3cbc1d5ab49cafa0c8e388166ea3435096041fcc9b2a7b2efd83e2d3|Build WolfOS desktop apps in C, C++ and C#||system|Wolf Studio|System|icons/studio.png
-sysui|1.0.0|538635|6321f3fdc92257b0c05981e9cda055ad9673b73def7b2fb81a049acacccfd1d7|WolfOS system service||service|sysui|System services|
-taskmgr|1.0.0|562643|c3fffea40288ef230a5a330d5e108c414e9ca5042e73bc2d442079e377b20722|Programs, performance and services||system|Task Manager|System|icons/taskmgr.png
-terminal|1.0.0|626143|f324cca059d47e81354f00f30992a00a00e81f88e87fafedcf200c67e1205268|The WolfOS command line||system|Terminal|System|icons/terminal.png
-widgets|1.0.0|558053|45e588089b6d880f9b150f0133dafb4475dafb9cd75b6d8fb4f47e50dfc6cc9d|Every control of the WolfOS SDK||system|Widget Gallery|System|icons/widgets.png
+notes|1.0.0|827519|895eeddae1789979a79965e633f18e94270ca890687a9ee46f51208b7a9dfb2d|Write and edit text files in tabs||system|Notes|System|icons/notes.png
+pkgmgr|1.0.0|658792|6d9de871d5e86762a177783e2604bedfe2f180123435d11524e4d88defe0f507|Find, install, update and remove packages||system|Package Manager|System|icons/pkgmgr.png
+settings|1.0.0|736311|d8df64a7373d27534e76507b0dffca46db23aacb959871efb369bd145e4c5e21|Appearance, display, network, users and more||system|Settings|System|icons/settings.png
+snip|1.0.0|579057|5bf4d88bc4b64947dc00ed80e54dcf56f5d9cd2cad275bb690c6926e2db4be3a|Take a picture of the screen, or of a part of it||system|Snipping Tool|System|icons/snip.png
+store|1.0.0|619689|11d4666b3ed5b7acb06e41acd162946b98f8962bccdbf87cc2311804d2d12d0c|Apps for WolfOS, and the system's own updates||system|Store|System|icons/store.png
+studio|1.0.0|889180|82e25a56e0914a399fbf34d6300ac37aaf421a6bb22b5622316a87cda2ce8a07|Build WolfOS desktop apps in C, C++ and C#||system|Wolf Studio|System|icons/studio.png
+sysui|1.0.0|538779|33b6c005fc51578f9e329b303ddb0b4fa8f311702fb5b328f85d3869d28cf438|WolfOS system service||service|sysui|System services|
+taskmgr|1.0.0|562787|7646c9b860aea0be33d8e212892f1c8790d5a5e7e778a1d045cbaecc977a2a2b|Programs, performance and services||system|Task Manager|System|icons/taskmgr.png
+terminal|1.0.0|626287|b8bc3ef7611a01d604c470d9b44209b8ac7a1a5708c098a8494fcef66bb69b4a|The WolfOS command line||system|Terminal|System|icons/terminal.png
+widgets|1.0.0|558197|333c76e7e3ea3e6f2c01797471506e9bb68185854fa982bd39809064fe9dfb10|Every control of the WolfOS SDK||system|Widget Gallery|System|icons/widgets.png
 wsh|1.0.0|102151|061645f04698bc85e4c59c782bd9c23789676ce98402e3fa3c72f5e0fc2b1b1d|WolfOS system service||service|wsh|System services|
