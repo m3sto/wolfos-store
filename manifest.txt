@@ -1,6 +1,6 @@
 # WolfOS Store manifest: name|version|size|sha256|summary|depends|kind|title|category|icon
 @store=WolfOS Store
-@generated=1795257437
+@generated=1795258353
 wolfclock|1.0|520483|952943d52c7df1bee3def62577f25ba58b13b07f67f1787e861977de6d2559a6|A desk clock with the date, following the desktop theme||app|wolfclock|Apps|icons/wolfclock.png
 browser|1.0.0|3367513|8c998175b76839f04aa1661eafdc8d7eee779930f16cc86c6bd7392dc9aa9a53|Browse the web||system|WolfBrowser|System|icons/browser.png
 calc|1.0.0|539108|f69ccefc946c425c79462e6535d7bfda812416490b23ff0c858c6ce5039c3a20|Add, subtract, multiply and divide||system|Calculator|System|icons/calc.png
