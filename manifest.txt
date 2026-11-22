@@ -1,6 +1,6 @@
 # WolfOS Store manifest: name|version|size|sha256|summary|depends|kind|title|category|icon
 @store=WolfOS Store
-@generated=1795346842
+@generated=1795353860
 wolfclock|1.0|530371|93de3cc13978545a2589a98f38617f77b058aba1e3e948887a652f734a391238|A desk clock with the date, following the desktop theme||app|wolfclock|Apps|icons/wolfclock.png
 archive|1.0.0|810297|c2cfea9798199ed1802ab00923b994b582855d4aedcf23e049d52ff0dd75829f|Open, extract and make zip, tar and gzip archives||system|Archives|System|icons/archive.png
 browser|1.0.0|3382681|b6e05512dbbb18ec7f067169a9c498e0b506e9debe86fdfe106c6506fe367ce4|Browse the web||system|WolfBrowser|System|icons/browser.png
@@ -17,17 +17,17 @@ files|1.0.0|734607|71872e70ac7b3777f6fefb93123609e26e67541eb6c58f228c0daa3ec08e3
 fonts|1.0.0|2134019|0b9c09cdd7e2ba83e6e5233139eb71706876c715c9b678a0d287db1a884eef01|The typefaces on this computer, each shown in several sizes||system|Fonts|System|icons/fonts.png
 gldemo|1.0.0|561933|fd900f788197a66eb194c90c9e00c27ec38be8a833eae3f2229457ce79a6a0b3|A turning, lit cube drawn with WolfGL (OpenGL 1.1 subset, software)||system|OpenGL Demo|System|icons/gldemo.png
 hwmgr|1.0.0|829854|925b0c62a8f54d229cf56a3a37e3c919f26ac189ff8a8382e8520d33225f0a1e|Devices, drivers and their state||system|Hardware|System|icons/hwmgr.png
-lxbase|1.0.0|22140|519f1a1074c50895e2bc2cee4914a4940033fc06e4e16a2719d4c80416d7cc92|WolfOS system service||service|lxbase|System services|
+lxbase|1.0.0|22300|b1f5d54a543d7b3353656e172f77bce1118b0810b9a9e69ca4317b6e911a8803|WolfOS system service||service|lxbase|System services|
 media|1.0.0|911549|86ba857b653c02004382729ba4600b48b555c4c3777a70122fea2a25218506c0|Music, playlists, videos and pictures||system|Media Player|System|icons/media.png
 netd|1.0.0|169449|e795b1af6e83236d1b960067d8fcb09d7fcdf6103d1ca8c0ed2433f8ce24ac6a|WolfOS system service||service|netd|System services|
 notes|1.0.0|829487|92579d9c31ca46b541151e4221f9e1081ca6972c94544088d5ebd27f95d870aa|Write and edit text files in tabs||system|Notes|System|icons/notes.png
 paint|1.0.0|645741|15bd581aff839a34f325be6fdc2b17ab8590a48c72207ef48be10862452e942e|Draw and touch up pictures: pencil, brush, shapes, fill, PNG and JPEG||system|Paint|System|icons/paint.png
 pkgmgr|1.0.0|670376|4b593af2e98eb0711dcaa1284a5db558b8630f377a019cf3e10d952bef9cc3ff|Find, install, update and remove packages||system|Package Manager|System|icons/pkgmgr.png
 recorder|1.0.0|622049|fa07605d09866d8b41d1a325e27f0ee45dd46822cf039ad81a011e108a40a284|Records the microphone to WAV files in Music/Recordings||system|Sound Recorder|System|icons/recorder.png
-settings|1.0.0|757671|0bf80762fa52b5545a2121e9f5a9f993ee25fab9c64c31ab9c6def1264b1f0ed|Appearance, display, network, users and more||system|Settings|System|icons/settings.png
+settings|1.0.0|758215|dc42aaa5088a18abaf2bb75175ac0d4825cbed21938bdb596e12a0689209ca6c|Appearance, display, network, users and more||system|Settings|System|icons/settings.png
 snip|1.0.0|581025|425cdc755a055126c5ef6b4222fcdde2d61bcc8ea30c151636498d0aa996c8b0|Take a picture of the screen, or of a part of it||system|Snipping Tool|System|icons/snip.png
 store|1.0.0|621593|ee21f1acd9023d47faff3a7e80d6f9250429bc478405a9a854594f77b03c4ffc|Apps for WolfOS, and the system's own updates||system|Store|System|icons/store.png
-studio|1.0.0|891132|328963909d5d8afe3c598d687cf41a6b0cd36f1a926c5d8c19e759bd04b49ddc|Build WolfOS desktop apps in C, C++ and C#||system|Wolf Studio|System|icons/studio.png
+studio|1.0.0|890972|038bb815644f38ceef4c1aa74ba6b9eb493c827d94f92ad2c7419367c874cf3a|Build WolfOS desktop apps in C, C++ and C#||system|Wolf Studio|System|icons/studio.png
 sysui|1.0.0|540443|4bffe1ed37402943ab38ef0e3b690511b83f443d083f5a2f0bf5dbe0cdf34ce5|WolfOS system service||service|sysui|System services|
 taskmgr|1.0.0|564739|34bf73fc225f8f974ae19bb35717f241a548ae3e641b9477f4911dc595018763|Programs, performance and services||system|Task Manager|System|icons/taskmgr.png
 terminal|1.0.0|628239|70a85c96c723c94e914ccb98c4643d3b22c1fc265218621a12c56e1f798e519f|The WolfOS command line||system|Terminal|System|icons/terminal.png
