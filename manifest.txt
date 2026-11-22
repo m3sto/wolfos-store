@@ -1,6 +1,6 @@
 # WolfOS Store manifest: name|version|size|sha256|summary|depends|kind|title|category|icon
 @store=WolfOS Store
-@generated=1795353860
+@generated=1795371275
 wolfclock|1.0|530371|93de3cc13978545a2589a98f38617f77b058aba1e3e948887a652f734a391238|A desk clock with the date, following the desktop theme||app|wolfclock|Apps|icons/wolfclock.png
 archive|1.0.0|810297|c2cfea9798199ed1802ab00923b994b582855d4aedcf23e049d52ff0dd75829f|Open, extract and make zip, tar and gzip archives||system|Archives|System|icons/archive.png
 browser|1.0.0|3382681|b6e05512dbbb18ec7f067169a9c498e0b506e9debe86fdfe106c6506fe367ce4|Browse the web||system|WolfBrowser|System|icons/browser.png
